@@ -5,13 +5,7 @@ A [c8ctl](https://github.com/camunda/c8ctl) plugin that provides an opinionated 
 ## Installation
 
 ```bash
-c8ctl load plugin --from file://$(pwd)
-```
-
-Or, once published to npm:
-
-```bash
-c8ctl load plugin c8ctl-plugin-c8run
+c8ctl load plugin --from https://github.com/MaxTru/c8ctl-plugin-c8run
 ```
 
 ## Usage
@@ -52,6 +46,10 @@ Set `C8RUN_CACHE_DIR` environment variable to override.
 - macOS (x86_64, aarch64)
 - Linux (x86_64, aarch64)
 - Windows via WSL
+
+## Contributor
+
+Idea and code from this repo from @bojtospeter.
 
 ## License
 
