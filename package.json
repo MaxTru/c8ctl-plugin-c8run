@@ -1,0 +1,9 @@
+{
+  "name": "c8ctl-plugin-c8run",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "c8ctl plugin to download, start, and stop a local Camunda 8 cluster via c8run",
+  "keywords": ["c8ctl", "c8ctl-plugin", "c8run", "camunda"],
+  "main": "c8ctl-plugin.js",
+  "license": "MIT"
+}
