@@ -1,3 +1,6 @@
+> [!TIP]
+> The features of this plugin are - since version [2.6.0-alpha3](https://github.com/camunda/c8ctl/releases/tag/v2.6.0-alpha.3) - shipped as default plugin with [c8ctl](https://github.com/camunda/c8ctl). Hence this repo was archived.
+
 # c8ctl-plugin-c8run
 
 A [c8ctl](https://github.com/camunda/c8ctl) plugin that provides an opinionated way to download, start, and stop a local Camunda 8 cluster using [c8run](https://docs.camunda.io/docs/self-managed/setup/deploy/local/c8run/).
